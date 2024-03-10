@@ -67,6 +67,7 @@ O programa oferece um conjunto abrangente de funcionalidades:
 
 > <div style="text-align: center;">
 >    <p align="center">
+> <br> 
 > Substitua 'hostname' pelo endereço do servidor SQL Server, 'porta' pela porta de conexão (geralmente 1433 por padrão) e 'database' pelo nome do banco de dados.
 >    </p>
 > </div>
@@ -84,7 +85,8 @@ O programa oferece um conjunto abrangente de funcionalidades:
 
 > <div style="text-align: center;">
 >    <p align="center">
-> Substitua <hostname> pelo endereço do servidor MySQL, <port> pela porta de conexão (geralmente 3306 por padrão) e <database> pelo nome do banco de dados.
+> <br>
+> Substitua 'hostname' pelo endereço do servidor MySQL, 'port' pela porta de conexão (geralmente 3306 por padrão) e 'database' pelo nome do banco de dados.
 >    </p>
 > </div>
 
