@@ -75,7 +75,6 @@ O programa oferece um conjunto abrangente de funcionalidades:
 > </div>
  
 <br>
-<br>
 
 > <div style="text-align: center;">
 >    <p align="center">
@@ -94,9 +93,11 @@ O programa oferece um conjunto abrangente de funcionalidades:
 
 <br>
 
-4. No arquivo `ShoppingTela.java`, compile e execute clicando em `run`.
+4. Adicione na __*IDE*__ escolhida as dependências encontradas em `projeto/lib`.
+    
+5. No arquivo `ShoppingTela.java`, compile e execute clicando em `run`.
 
-5. Siga as instruções descritas na interface de CEP para cadastro, procura, exclusão e alteração de dados.
+6. Siga as instruções descritas na interface de CEP para cadastro, procura, exclusão e alteração de dados.
 
 ## 🏃‍♂️ Primeiros Passos
 
