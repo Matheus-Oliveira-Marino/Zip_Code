@@ -114,4 +114,4 @@ Enquanto isso, os arquivos de saída compilados serão gerados na pasta `bin` po
 A visualização `JAVA PROJECTS` permite que você gerencie suas dependências. Mais detalhes podem ser encontrados [aqui](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 📜 Licença
-Este projeto está licenciado sob a [MIT LICENSE](https://github.com/Matheus-Oliveira-Marino/Airports-and-Fights-Infrastructure/blob/main/LICENSE). Consulte o arquivo para obter detalhes.
+Este projeto está licenciado sob a [MIT LICENSE](https://github.com/Matheus-Oliveira-Marino/Zip_Code/blob/main/LICENSE). Consulte o arquivo para obter detalhes.
