@@ -54,9 +54,11 @@ O programa oferece um conjunto abrangente de funcionalidades:
 
 3. Configure a conexão com o BD na classe `BDSQLServer.java`. Observações:
 
+<br>
+
 > <div style="text-align: center;">
 >    <p align="center">
->        <h3> SQL Server: </h3>  
+>    <h3> SQL Server: </h3> 
 >        Driver JDBC: com.microsoft.sqlserver.jdbc.SQLServerDriver  
 >        <br>
 >        URL de Conexão: jdbc:sqlserver://<hostname>:<port>;databaseName=<database>
