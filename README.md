@@ -50,7 +50,7 @@ O programa oferece um conjunto abrangente de funcionalidades:
 
 1. Clone este repositório ou faça download do projeto completo.
 
-2. Crie um `script SQL` como [este](link no github), pelo `SQLServer` ou `SQL`.
+2. Crie um `script SQL` como [este](https://github.com/Matheus-Oliveira-Marino/Zip_Code/blob/main/shopping.sql), utilizando o banco de dados `SQLServer` ou `SQL`.
 
 3. Configure a conexão com o BD na classe `BDSQLServer.java`. Observações:
 
