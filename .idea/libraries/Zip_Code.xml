@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Zip_Code">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jackson-core-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Atxy2k.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../org.codehaus.jackson.core.jar/org.codehaus.jackson.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../aa/jackson-core-asl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

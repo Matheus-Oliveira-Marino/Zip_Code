@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "Atxy2k.jar",
+            "c:\\Users\\maths\\Desktop\\jackson-databind-2.11.1-javadoc.jar",
+            "c:\\Users\\maths\\Desktop\\jackson-mapper-asl-1.9.13.jar",
+            "c:\\Users\\maths\\Desktop\\org.codehaus.jackson.core.jar\\org.codehaus.jackson.core.jar",
+            "jackson-core-2.2.3.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\maths\\Desktop\\jackson-databind-2.11.1.jar"
+        ]
+    }
+}
